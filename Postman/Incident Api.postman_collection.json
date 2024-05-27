@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "e1e86d3f-896f-454a-87ac-0143a3f95610",
+		"name": "Incident Api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "32347860",
+		"_collection_link": "https://interstellar-rocket-638604.postman.co/workspace/Innomaps~be022802-ff03-4778-89af-35f0ae631a37/collection/32347860-e1e86d3f-896f-454a-87ac-0143a3f95610?action=share&source=collection_link&creator=32347860"
+	},
+	"item": [
+		{
+			"name": "GET Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET Atendida",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
