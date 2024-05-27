@@ -35,6 +35,8 @@ incident-management/
      git clone git@github.com:Willikox/incident-project.git.
    cd incident-project/backend
 
+   git@github.com:Willikox/incidentsfront.git para el FrintEnd
+
 Configurar la Base de Datos:
 
 Asegúrate de que PostgreSQL esté corriendo.
@@ -64,6 +66,7 @@ spring.jpa.hibernate.ddl-auto=update
 #Copila y ejecuta dentro del archivo IncidentsApplication.java y ejecuta como Java Application
 
 ##Despliegue del Frontend
+git@github.com:Willikox/incidentsfront.git  
 
 Instalar Dependencias:
 
